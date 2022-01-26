@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edilca
 - 👀 I’m interested in: Dev Front-end
-- 🌱 I’m currently learning curious
-- 💞️ I’m looking to collaborate on: Oh yes
+- 🌱 
+- 💞️ 
 - 📫 
 
 <!---
