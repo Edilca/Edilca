@@ -1,1 +1,1 @@
-<img align="right" alt="Coding" width="400" src="C:\Users\edilc\OneDrive\Área de Trabalho">
+<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAE5XSUgB7k/QNJ96BoGomQ9DqUZWKZy9A/view?utm_content=DAE5XSUgB7k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
