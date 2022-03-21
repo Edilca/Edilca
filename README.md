@@ -1,3 +1,5 @@
+![capa](https://user-images.githubusercontent.com/95315238/159235877-f72be60c-d25e-48e0-ac53-d292733db1d8.gif)
+
 <h1 align="center" color ="red">Olá! Edilca Costa</h1>
 <h2 align="center"><strong>Seja Bem Vindo!</strong></h2>
 
