@@ -28,7 +28,6 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <img src="https://user-images.githubusercontent.com/36648528/153305648-c9dccc2f-a205-4cef-8c40-dea62f59d813.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://user-images.githubusercontent.com/36648528/153305648-c9dccc2f-a205-4cef-8c40-dea62f59d813.png" alt="java" width="40" height="40"/> </a> 
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/36648528/138820416-d6c4e2a1-9a92-4055-b0dd-af8df3a5d9be.png">
  </div>
  
  ##
