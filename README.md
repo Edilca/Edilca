@@ -15,6 +15,7 @@
 </div>
   
  ##
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edilca&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edilca&show_icons=true)
   
 <div align = "center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> 
