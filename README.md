@@ -1,7 +1,7 @@
 ![capa](https://user-images.githubusercontent.com/95315238/159235877-f72be60c-d25e-48e0-ac53-d292733db1d8.gif)
 
-<h1 align="center" color ="red">Olá! Edilca Costa</h1>
-<h2 align="center"><strong>Seja Bem Vindo!</strong></h2>
+<h1 align="center" color ="red">Olá! Colegas</h1>
+<h2 align="center"><strong>Sejam Bem Vindos!</strong></h2>
 
 ⚡ **Me chamo Edilca, tenho 30 anos. Ensino superior completo, e cursando Terapia Ocupacional na UFPEL. Hoje busco migrar de área para o desenvolvimento Front- End. Já tenho conhecimentos de HTML, CSS e JavaScript, viso aprender diariamente e quero conhecer o maior número de linguagens e tecnologias possiveis. Em um contexto profissional, possuo experiência em diversas áreas, facilidade de desenvolvimento tanto no setor comercial, como também no operacional. Maestria em lidar com pessoas. Sou proativa, dedicada, honesta, comunicativa, tenho espírito de liderança, tenho facilidade para resolver desafios. Tenho certeza que com foco e determinação, consiga migrar de área ainda esse ano, e com isso, consiga ser mais uma história de sucesso.**
 
