@@ -1,8 +1,8 @@
 ##
 
+ 
 
-
-   <div>
+    <div>
      <img src="capa.gif" alt="" srcset="" />
                  Me chamo Edilca, tenho 30 anos.
                      Ensino superior completo, e cursando Terapia Ocupacional na UFPEL. Hoje busco migrar de área para o desenvolvimento Front- End. Já tenho conhecimentos de HTML, CSS e JavaScript. 
@@ -17,10 +17,6 @@
       
       ##
       
-      </div>
-    
-    </div>
-
 ##
 
 <div> 
