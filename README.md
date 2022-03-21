@@ -1,8 +1,8 @@
 ##
 
- 
+/
 
-    <div>
+   <div>
      <img src="capa.gif" alt="" srcset="" />
                  Me chamo Edilca, tenho 30 anos.
                      Ensino superior completo, e cursando Terapia Ocupacional na UFPEL. Hoje busco migrar de área para o desenvolvimento Front- End. Já tenho conhecimentos de HTML, CSS e JavaScript. 
@@ -17,6 +17,12 @@
       
       ##
       
+      </div>
+    <div style="display: inline_block"><br>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edilca)](https://github.com/Edilca/https://github.com/Edilca/Edilca)
+
+    </div>
+
 ##
 
 <div> 
@@ -31,4 +37,3 @@
 
 </div>
 📫 Contato: 053 984539964 --> edilca@gmail.com
-
