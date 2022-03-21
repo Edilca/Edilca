@@ -3,8 +3,12 @@
 /
 
 -   <div>
-  
-  Me chamo Edilca, tenho 30 anos. Ensino superior completo, e cursando Terapia Ocupacional na UFPEL. Hoje busco migrar de área para o desenvolvimento Front- End. Já tenho conhecimentos de HTML, CSS e JavaScript. Em um contexto profissional geral, possuo experiência em diversas áreas, facilidade de desenvolvimento tanto no setor comercial, como também no     operacional. Maestria em lidar com pessoas. Sou proativa, dedicada, honesta, comunicativa, tenho espírito de liderança, tenho facilidade para resolver desafios. Tenho certeza que com foco e determinação, consiga migrar de área ainda esse ano, e com isso, consiga ser mais uma história de sucesso.
+     <img src="capa.gif" alt="" srcset="" />
+                 Me chamo Edilca, tenho 30 anos.
+                     Ensino superior completo, e cursando Terapia Ocupacional na UFPEL. Hoje busco migrar de área para o desenvolvimento Front- End. Já tenho conhecimentos de HTML, CSS e JavaScript. 
+                 Em um contexto profissional geral, possuo experiência em diversas áreas, facilidade de desenvolvimento tanto no setor comercial, como também no     operacional. Maestria em lidar com pessoas. 
+                    Sou proativa, dedicada, honesta, comunicativa, tenho espírito de liderança, tenho facilidade para resolver desafios.
+                 Tenho certeza que com foco e determinação, consiga migrar de área ainda esse ano, e com isso, consiga ser mais uma historia de sucesso.
          
       <a href="https://github.com/edilca">
       <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Edilca_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,7 +19,7 @@
       
       </div>
     <div style="display: inline_block"><br>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edilca)](https://github.com/Edilca/Edilca)
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edilca)](https://github.com/Edilca/https://github.com/Edilca/Edilca)
 
     </div>
 
@@ -33,3 +37,4 @@
 
 </div>
 📫 Contato: 053 984539964 --> edilca@gmail.com
+
